@@ -1,0 +1,8 @@
+assessment = float(input())
+if assessment >= 5.50:
+    print("Exellent")
+else: print("nothing")
+
+
+
+
