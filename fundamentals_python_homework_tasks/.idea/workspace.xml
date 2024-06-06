@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="92ad6ca3-3b2b-4ab6-aa6b-370fcea9797b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RockPaperScissorsByDOlegow" beforeDir="false" afterPath="$PROJECT_DIR$/../RockPaperScissorsByDOlegow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/templates/phonebook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/templates/phonebook/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,9 +154,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="101" />
     <option name="y" value="39" />
@@ -141,6 +164,9 @@
     <option name="height" value="526" />
   </component>
   <component name="ProjectId" id="2hL3aVTsRs2LdmrMY0zsxepvq2Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -191,22 +217,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.manage.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User01/Documents/github/fundamentals_python_homework_tasks/Basic_WEB_project/djangoproject/djangoproject/phonebook",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User01\Documents\github\fundamentals_python_homework_tasks\Basic_WEB_project\djangoproject\djangoproject\phonebook" />
       <recent name="C:\Users\DOD\PycharmProjects\fundamentals_python_homework_tasks" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User01\Documents\github\fundamentals_python_homework_tasks\Basic_WEB_project\djangoproject\djangoproject\phonebook" />
       <recent name="C:\Users\DOD\PycharmProjects\fundamentals_python_homework_tasks\___exam_preparation\16_june" />
       <recent name="C:\Users\DOD\PycharmProjects\fundamentals_python_homework_tasks\___exam_preparation\15_june_training\5_mid_exam" />
       <recent name="C:\Users\DOD\PycharmProjects\fundamentals_python_homework_tasks\___exam_preparation\15_june_training\4_mid_exam" />
       <recent name="C:\Users\DOD\PycharmProjects\fundamentals_python_homework_tasks" />
-      <recent name="C:\Users\DOD\PycharmProjects\fundamentals_python_homework_tasks\11_may_Mario" />
     </key>
   </component>
   <component name="RunManager" selected="Python.manage">
@@ -521,6 +552,9 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1004,6 +1038,11 @@
           <url>file://$PROJECT_DIR$/__exam_2024_04_08/3zadacha22t.py</url>
           <line>45</line>
           <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/urls.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
