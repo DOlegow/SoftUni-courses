@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ad6ca3-3b2b-4ab6-aa6b-370fcea9797b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myproject/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/templates/phonebook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/templates/phonebook/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_WEB_project/djangoproject/djangoproject/phonebook/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
