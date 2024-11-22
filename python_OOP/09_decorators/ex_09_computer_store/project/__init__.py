@@ -1,0 +1,2 @@
+def mammal():
+    return None
